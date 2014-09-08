@@ -13,9 +13,9 @@ Das __Software Engineering__ ist das ingenieursmäßige Entwickeln, Anpassen und
 
  _Ziel: Mehr Planungsaufwand, weniger Realisierungs- und Wartungsaufwand_
 
----
 
- ## Modelle
+
+## Modelle
 
  Ein __Modell__ ist eine vereinfachte Darstellung der Sache (z.B. Hausbauplan o. Landkarte), die von einem gewissen Ziel geprägt ist.
 
@@ -31,9 +31,9 @@ Das __Software Engineering__ ist das ingenieursmäßige Entwickeln, Anpassen und
 
  Bei der __Zerlegung__ wird ein Problem in kleine Module zerlegt, die einzeln abgehandelt werden
 
- ---
 
- ## Anforderungen
+
+## Anforderungen
 
  __Anforderungen__ legen fest, was ein System können soll, nicht jedoch wie es realisiert wird.
 
@@ -47,9 +47,9 @@ Das __Software Engineering__ ist das ingenieursmäßige Entwickeln, Anpassen und
 
  _Informationen_ können entweder personenbezogen durch Interviews, Fragebögen oder Beobachtung gewonnen werden. Eine andere Art der Informationsgewinnung ist die Dokumentenbezogene.
 
- ---
 
- ## Das ARIS-Haus
+
+## Das ARIS-Haus
 
  ![](img/SAE_ARIS.jpg)
 
@@ -61,9 +61,9 @@ Das __Software Engineering__ ist das ingenieursmäßige Entwickeln, Anpassen und
 
  - Implementierung
 
- ---
 
- ## EPK
+
+## EPK
 
  ![](img/SAE_EPK.jpg)
 
@@ -85,19 +85,19 @@ Das __Software Engineering__ ist das ingenieursmäßige Entwickeln, Anpassen und
 
  	- z.B. _"Beleg liegt vor"_ oder _"Bestellung aufgegeben"_
 
- ---
 
- ## Entscheidungstabelle 
+
+## Entscheidungstabelle 
 
 ![](img/SAE_etab.jpg)
 
----
+
 
 ## Entscheidungsbaum
 
 ![](img/SAE_ebaum.jpg)
 
----
+
 
 ## Objektorientierung
 
@@ -117,7 +117,7 @@ Jedes Objekt ist nach außen nur durch seine Schnittstelle sichtbar. Die Daten e
 
 Die Implementierung innerhalb eines Objektes ist nach außen hin völlig egal. Verschiedene Objekte können die selbe Methode verschieden Implementieren.
 
----
+
 
 ## UML-Klassendiagram
 
@@ -153,13 +153,13 @@ Wird ein Auftragsobjekt gelöscht, werden auch seine Positionen gelöscht (_"Str
 
 ![](img/SAE_UML_beisp.jpg)
 
----
+
 
 ## Sequenzdiagram
 
 ![](img/SAE_seq.jpg)
 
----
+
 
 ## Aktivitätsdiagram
 
@@ -167,7 +167,7 @@ Wird ein Auftragsobjekt gelöscht, werden auch seine Positionen gelöscht (_"Str
 
 - Aktivitäten können durch Swimlanes verschiedene Zuständigkeiten zugewiesen werden
 
----
+
 
 ## Zustandsdiagram
 
@@ -175,7 +175,7 @@ Wird ein Auftragsobjekt gelöscht, werden auch seine Positionen gelöscht (_"Str
 
 Zeigt, welche Zustände ein Objekt einnehmen kann und mit welcher Operation zwischen ihnen gewechselt wird
 
----
+
 
 ## Use cases
 
